@@ -7,7 +7,7 @@
 ## Goal of the project
 * The goal of the project is to classify tumors as __benign__ or __malignant__ based on given features.
 * Perform __hyperparameter tuning__ to determine which model achieves the best performance on this dataset.
-* 
+
 ## Dataset
 * You can download the dataset from Kaggle: [Breast Cancer Wisconsin (Diagnostic) Data Set](https://www.kaggle.com/datasets/uciml/breast-cancer-wisconsin-data)
 
